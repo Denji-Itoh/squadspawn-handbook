@@ -3,6 +3,8 @@
 A world that is best described as manifested chaos. This is a dystopian, ever-changing place where only the strong can survive. A world where death has more than one layer, all of which you may experience. Because dying in this world does not mean the end. 
 But for now, what is Ave like? Chaotic, for short. You may walk through an ice desert for ten kilometres, then find a rainforest directly attached to it. Basic geography doesn’t really apply here. You can find flying mountains, fiery stone deserts or blood-red water with subnautic ruins in some places. Remember back when you were a child and drew blue horses because they looked cool? It didn’t make much sense, but that didn’t stop you. Think of Ave as the mind of such a child, manifesting what it feels like in the moment. 
 
+<img src="Ave World Map.jpg"/>
+
 -----------------------
 
 ## TECHNOLOGY
