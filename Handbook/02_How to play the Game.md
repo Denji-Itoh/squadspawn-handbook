@@ -87,7 +87,7 @@ E.g. if you want to help someone jump higher to reach a platform, but that perso
 
 ## RECOVERY
 Once in a while you will need to take some time to tend to your wounds, recover your strength and calm yourself from the heat of combat. Such a break is defined as a Rest and is bound to the following rules: 
-* A rest must take at least one hour. 
+* A rest must take at least three hours. 
 * You can't perform any physically or mentally taxing tasks during your rest. 
 Doing so will reset the time you need until your rest is finished again. 
 * You should mention when you're about to start your rest. 
