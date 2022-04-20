@@ -10,11 +10,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - run: |
+          #!/bin/bash
+          echo "merging markdown files"
+          
+          cd Handbook/          
+          mkdir out/
+          
+          for file in *.md; do
+            cat "${file}" >> out/handbook.md
+            echo "" >> out/handbook.md
+          done
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: Handbook
+          input_dir: Handbook/out
           output_dir: pdfs
-          images_dir: Handbook/images
+          images_dir: Handbook/img
           build_html: true
       - uses: actions/upload-artifact@v1
         with:
