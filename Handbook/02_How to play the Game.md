@@ -1,21 +1,21 @@
------------------------
-::::: PEN AND PAPER :::::
+
+# How to Play the Game
 This is a pen & paper roleplaying game. You make a character that you play as and travel through the partially pre-set world with fellow players, overcoming obstacles that your GM (Gamemaster) is putting in front of you and following a story-line that is partially pre-set and executed as well as completed by – again – your GM. 
 
-The Gamemaster
+### The Gamemaster
 So, he does most of the work - but he’s also the one in control. The GM is not limited to one character, since he can make you meet whoever he wants. And he is responsible for binding your character’s backstory into the main storyline and give you spotlight from time to time. He’s responsible for ensuring the players have fun, and making sure the story plays out nicely for everyone involved. A lot of responsibility, but also a lot of creativity that you can unleash onto your players, enchanting them in your world and your characters. 
 Sounds interesting to you? In that case, you should read the Squadspawn GM handbook. 
 But keep in mind; if you read it, you know everything about Ave. You know why things are the way they are. You may not be able to play the game the way a normal player can, or you need to roleplay that you don’t know anything about it. If you only want to GM on occasional times to give your usual GM a little break, though, you can just make your own characters or ask him what you are allowed to do without disturbing his ‘greater plan’. 
 
-The Player Character
+### The Player Character
 As a player, you should choose races and classes that suit you. You can roleplay a racist extremist if you want to, or have a whole group of clowns patrol the lanes of Ave. But optimally you play a character with a lot of depth to them, that you enjoy playing and that can handle serious things happening around them. You and your fellow players, you’re gonna be a team. The world is going to try and rip you all apart, and you must withstand that. Solo players usually get ripped apart by some part of Ave sooner or later. 
 That does not mean that you can’t play a secretly evil character that stabs the rest of the crew in the back sometime down the line, but if you don’t give your character reason or interest in being in a group travelling the lands of Ave, then you’ll find yourself troubled playing the game.
 So, long story short; play whatever you want, but keep in mind that this is at its core team-based, brutal and serious. If you play a class clown, the local tribe might not be too keen on your jokes. But, knowing that, feel free to be creative. 
------------------------
 
 
------------------------
-::::: SKILL CHECKS :::::
+
+
+## SKILL CHECKS
 Everything that is hard to do or needs some sort of skill needs a dice roll. You usually only use the twenty-sided dice if you’re outside combat. In combat, you mainly use six-sided dices. More about that is written in the ‘Encounter’ chapter. 
 If your character is a scout, he’s quiet and fast, so you have bonus points on rolls for stealth and movement. He doesn’t have too much armour on himself though, so on defence rolls in combat you won’t be able to add much points to your roll and have to take a hit more often because of that. So you should spend your skill points based on what playstyle you have. 
 
@@ -40,15 +40,15 @@ There are the following 17 skills, the first 5 being relevant for combat:
 · Tinker – Can you tinker with old things to create new inventions? 
 
 You can spend points on these skills when creating your character. On the first level, you have twenty points with the only boundary being 4+ your current level. If you choose to spend all of your points on dexterity and just keep dodging enemy attacks, so be it. But be reminded – if there is an enemy with an attack covering a wide area, you are not able to dodge and thus have to take the hit with the defence option. So you might be more keen to that. But when rolling for the order of initiative in an encounter, you're allowed to use your Combat Dexterity value for the roll. As you see, pretty much every skill is needed at some point, so choose wisely. 
-Also, a character who is unbeatable in dodging but has zero movement or observance is illogical. Your GM should look over what skills you picked and decide if they fit your character. There are no boundaries so you can be who you want, not so you can break the game. But feel free to try and break the game, considering that. 
+Also, a character who is unbeatable in dodging but has zero movement or observance isn't realistic. Your GM should look over what skills you picked and decide if they fit your character. There are no boundaries so you can be who you want, not so you can break the game. But feel free to try and break the game, considering that. 
 You might gain advantage or disadvantage on some skill checks based on your race and class options. If you have advantage, simply roll your check two times and pick the best result. For rolls with a disadvantage, pick the worse outcome. 
 If you gain advantage two times because of a certain combination of options for your character, add a +3 bonus to the roll instead of rolling more than two times. If you gain disadvantage two times, you get a -3 penalty instead. 
------------------------
 
 
------------------------
-::::: COMBAT ENCOUNTERS :::::
-:: General Combat Rules ::
+
+
+## COMBAT ENCOUNTERS 
+### General Combat Rules 
 · Combat is turn-based, with an Initiative Roll deciding the turn order. 
 · If you want to start combat, you have to roll for Initiative with a Dexterity check. 
 · The higher your check is, the earlier you can start your turn. If you were the one to initiate combat however, you have advantage on your Initiative Roll. If the enemies have no way of knowing that you're trying to attack them, they have to roll with disadvantage. Same goes for player characters. You can still come last even if you wanted to surprise someone, but you can also realize someone is trying to attack you from a hidden location because you felt their presence or heard their weaponry. 
@@ -78,11 +78,11 @@ E.g. if you want to help someone jump higher to reach a platform, but that perso
 · Enemies have the same action economy as you.  
 · You can talk freely during combat, but interactions with each other and the enemy will be limited or interrupted by the GM. 
 
-:: NPC Combat Rules ::
+### NPC Combat Rules
 · Regular NPCs generally cannot perform the Help reaction. 
 · Legendary NPCs might be able to perform the Help reaction. 
 
-:: Invisibility Rules ::
+### Invisibility Rules
 · Through the power of the Shin or special items, it is possible for combatants to turn invisible. The following special rules apply in these scenarios. 
 · You're invisible, but not 100% imperceptible. You create sounds, smell, leave footprints or have rustling equipment. And you still emit aura, which enemies can detect passively or actively. You are granted with certain benefits however, as you're simply harder to nail down, especially while in ranged combat. 
 · If you're invisible, enemies have disadvantage on opportunity attacks. 
@@ -91,11 +91,11 @@ E.g. if you want to help someone jump higher to reach a platform, but that perso
 · If an enemy is unaware of you and you're invisible to him, you have advantage on Ranged Attacks. 
 · You can spend all your actions on trying to hide with another stealth or ability check, as described above. The enemy will have to win aforementioned contest or is unaware of your current location and unable to attack. If they correctly guess your position without winning said contest, they will have disadvantage on all attacks that aren't field-covering. 
 · If an enemy failed aforementioned contests and are unaware of your location, they can spend an action to try and find you. 
------------------------
 
 
------------------------
-::::: RECOVERY :::::
+
+
+## RECOVERY
 Once in a while you will need to take some time to tend to your wounds, recover your strength and calm yourself from the heat of combat. Such a break is defined as a Rest and is bound to the following rules: 
 	• A rest must take at least one hour. 
 	• You can't perform any physically or mentally taxing tasks during your rest. 
@@ -107,11 +107,11 @@ Additionally to resting, your characters also need to sleep once in a while. Hav
 
 :: First Aid Kits ::
 In your adventures you might stumble upon first aid kits. With each of these kits, you can heal 2d6 hit points before you run out of equipment, as these are merely used for the most necessary treatment before you can take a proper rest. They take two combat rounds to apply and you can only carry one at a time. 
------------------------
 
 
------------------------
-::::: CHARACTER CREATION :::::
+
+
+## CHARACTER CREATION
 You have to follow several steps to create a character that suits you. 
 	1. On first level, you have 1 Action, 1 Interaction and 1 Reaction, which are closer described in the Combat Encounters page. 
 	2. Pick a race that suits you and write down all your abilities and values on your character sheet that the race gives you at the level you start on. 
@@ -122,10 +122,10 @@ You have to follow several steps to create a character that suits you.
 	7. Write a background story befitting your earlier picks and write the basics of it down on your character sheet. 
 	8. Hand your character-sheet and backstory to your GM and listen to what they say, implementing possible feedback. 
 
+## LEVELING UP
 If you level up, check your stats in the following order: 
 	1. Racial bonus features and ability scaling
 	2. Class bonus features and ability and HP scaling. Re-Roll if you get a 1. 
 	3. Movement scaling
 	4. Weapon scaling
 	5. Add 3 skill points, with a maximum value of 4 + your current level. 
------------------------
