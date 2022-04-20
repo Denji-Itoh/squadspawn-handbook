@@ -1,9 +1,9 @@
 name: Compile Markdown to PDF
 on: 
-  push  
+  push: {}
   # branches:
   #   - main
-  workflow_dispatch
+  workflow_dispatch: {}
 
 jobs:
   compile-markdown-to-pdf:
