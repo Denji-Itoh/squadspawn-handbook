@@ -53,19 +53,9 @@ If you gain advantage two times because of a certain combination of options for 
 * If you want to start combat, you have to roll for Initiative with a Dexterity check. 
 * The higher your check is, the earlier you can start your turn. If you were the one to initiate combat however, you have advantage on your Initiative Roll. If the enemies have no way of knowing that you're trying to attack them, they have to roll with disadvantage. Same goes for player characters. You can still come last even if you wanted to surprise someone, but you can also realize someone is trying to attack you from a hidden location because you felt their presence or heard their weaponry. 
 * You have a certain amount of actions during your turn in combat that you can take if you want to. Depending on your class and level. 
-⋅⋅⋅* 1 Action: In your action you can either 
-⋅⋅⋅⋅⋅⋅* attack someone, 
-⋅⋅⋅⋅⋅⋅* interact with something, 
-⋅⋅⋅⋅⋅⋅* take the Dash action to move half your movement speed again (rounded down), 
-⋅⋅⋅⋅⋅⋅* take the Disengage action to move out of your enemies' range without causing opportunity attacks, 
-⋅⋅⋅⋅⋅⋅* try and disarm your enemy 
-⋅⋅⋅⋅⋅⋅* or grapple them, 
-⋅⋅⋅⋅⋅⋅* roll for Stealth to hide yourself from enemies, 
-⋅⋅⋅⋅⋅⋅* or something similar that might come to mind. 
-⋅⋅⋅* 1 Interaction: Additionally to your regular action, you can interact with one object with this type of action. 
-⋅⋅⋅* 1 Reaction: You can use your Reaction for 
-⋅⋅⋅⋅⋅⋅* an opportunity attack if an enemy decides to leave your close-combat attack range, 
-⋅⋅⋅⋅⋅⋅* or use the Help Reaction to give a friend advantage on a roll they're making, or an enemy disadvantage on an attack roll against. 
+⋅⋅* 1 Action: In your action you can either attack someone, interact with something, take the Dash action to move half your movement speed again (rounded down), take the Disengage action to move out of your enemies' range without causing opportunity attacks, try and disarm your enemy or grapple them, roll for Stealth to hide yourself from enemies, or something similar that might come to mind. 
+⋅⋅* 1 Interaction: Additionally to your regular action, you can interact with one object with this type of action. 
+⋅⋅* 1 Reaction: You can use your Reaction for an opportunity attack if an enemy decides to leave your close-combat attack range, or use the Help Reaction to give a friend advantage on a roll they're making, or an enemy disadvantage on an attack roll against. 
 * You can ready any of these actions or your movement on a certain condition. For the rest of this turn, when your condition is met, you will perform that action. The wording has to be precise and edge cases are decided by the DM. 
 * If an enemy decides to attack you, they roll for their desired attack roll, and you roll for either Defence or Dexterity. If they win the contest, they hit you successfully and get to describe it. 
 * If you decide to attack an enemy, you roll for for your desired attack roll, which can be either a Ranged Attack, a Close-Combat Attack or an Ability check, your enemy rolls for their desired counter roll. If you hit, you get to describe the outcome. 
