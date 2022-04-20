@@ -53,19 +53,19 @@ If you gain advantage two times because of a certain combination of options for 
 * If you want to start combat, you have to roll for Initiative with a Dexterity check. 
 * The higher your check is, the earlier you can start your turn. If you were the one to initiate combat however, you have advantage on your Initiative Roll. If the enemies have no way of knowing that you're trying to attack them, they have to roll with disadvantage. Same goes for player characters. You can still come last even if you wanted to surprise someone, but you can also realize someone is trying to attack you from a hidden location because you felt their presence or heard their weaponry. 
 * You have a certain amount of actions during your turn in combat that you can take if you want to. Depending on your class and level. 
-	⋅⋅⋅* 1 Action: In your action you can either 
-		⋅⋅⋅⋅⋅⋅* attack someone, 
-		⋅⋅⋅⋅⋅⋅* interact with something, 
-		⋅⋅⋅⋅⋅⋅* take the Dash action to move half your movement speed again (rounded down), 
-		⋅⋅⋅⋅⋅⋅* take the Disengage action to move out of your enemies' range without causing opportunity attacks, 
-		⋅⋅⋅⋅⋅⋅* try and disarm your enemy 
-		⋅⋅⋅⋅⋅⋅* or grapple them, 
-		⋅⋅⋅⋅⋅⋅* roll for Stealth to hide yourself from enemies, 
-		⋅⋅⋅⋅⋅⋅* or something similar that might come to mind. 
-	⋅⋅⋅* 1 Interaction: Additionally to your regular action, you can interact with one object with this type of action. 
-	⋅⋅⋅* 1 Reaction: You can use your Reaction for 
-		⋅⋅⋅⋅⋅⋅* an opportunity attack if an enemy decides to leave your close-combat attack range, 
-		⋅⋅⋅⋅⋅⋅* or use the Help Reaction to give a friend advantage on a roll they're making, or an enemy disadvantage on an attack roll against. 
+⋅⋅⋅* 1 Action: In your action you can either 
+⋅⋅⋅⋅⋅⋅* attack someone, 
+⋅⋅⋅⋅⋅⋅* interact with something, 
+⋅⋅⋅⋅⋅⋅* take the Dash action to move half your movement speed again (rounded down), 
+⋅⋅⋅⋅⋅⋅* take the Disengage action to move out of your enemies' range without causing opportunity attacks, 
+⋅⋅⋅⋅⋅⋅* try and disarm your enemy 
+⋅⋅⋅⋅⋅⋅* or grapple them, 
+⋅⋅⋅⋅⋅⋅* roll for Stealth to hide yourself from enemies, 
+⋅⋅⋅⋅⋅⋅* or something similar that might come to mind. 
+⋅⋅⋅* 1 Interaction: Additionally to your regular action, you can interact with one object with this type of action. 
+⋅⋅⋅* 1 Reaction: You can use your Reaction for 
+⋅⋅⋅⋅⋅⋅* an opportunity attack if an enemy decides to leave your close-combat attack range, 
+⋅⋅⋅⋅⋅⋅* or use the Help Reaction to give a friend advantage on a roll they're making, or an enemy disadvantage on an attack roll against. 
 * You can ready any of these actions or your movement on a certain condition. For the rest of this turn, when your condition is met, you will perform that action. The wording has to be precise and edge cases are decided by the DM. 
 * If an enemy decides to attack you, they roll for their desired attack roll, and you roll for either Defence or Dexterity. If they win the contest, they hit you successfully and get to describe it. 
 * If you decide to attack an enemy, you roll for for your desired attack roll, which can be either a Ranged Attack, a Close-Combat Attack or an Ability check, your enemy rolls for their desired counter roll. If you hit, you get to describe the outcome. 
@@ -97,11 +97,11 @@ E.g. if you want to help someone jump higher to reach a platform, but that perso
 
 ## RECOVERY
 Once in a while you will need to take some time to tend to your wounds, recover your strength and calm yourself from the heat of combat. Such a break is defined as a Rest and is bound to the following rules: 
-	* A rest must take at least one hour. 
-	* You can't perform any physically or mentally taxing tasks during your rest. 
+* A rest must take at least one hour. 
+* You can't perform any physically or mentally taxing tasks during your rest. 
 Doing so will reset the time you need until your rest is finished again. 
-	* You should mention when you're about to start your rest. 
-	* You can also ask if you've received a rest in hindsight of downtime your characters experienced - if the GM allows for it. 
+* You should mention when you're about to start your rest. 
+* You can also ask if you've received a rest in hindsight of downtime your characters experienced - if the GM allows for it. 
 
 Additionally to resting, your characters also need to sleep once in a while. Having a sleepless night will give you 'Exhaustion', which will give you disadvantage on any roll your character makes. 
 
@@ -113,19 +113,19 @@ In your adventures you might stumble upon first aid kits. With each of these kit
 
 ## CHARACTER CREATION
 You have to follow several steps to create a character that suits you. 
-	1. On first level, you have 1 Action, 1 Interaction and 1 Reaction, which are closer described in the Combat Encounters page. 
-	2. Pick a race that suits you and write down all your abilities and values on your character sheet that the race gives you at the level you start on. 
-	3. Note down your base movement stats, as described in the Movement chapter. 
-	4. Pick a class and write down all the abilities and values it adds to your base features and abilities at the level you start on. 
-	5. Pick your skills. Start with 20 points at first level, with a maximum of 4 + your current level per skill. Don't forget that you can earn points back by adding up to a -3 modifier on a skill as well. 
-	6. Get your equipment based on one of the starter packs and add additional items your character would carry, in consultation with your GM. 
-	7. Write a background story befitting your earlier picks and write the basics of it down on your character sheet. 
-	8. Hand your character-sheet and backstory to your GM and listen to what they say, implementing possible feedback. 
+1. On first level, you have 1 Action, 1 Interaction and 1 Reaction, which are closer described in the Combat Encounters page. 
+2. Pick a race that suits you and write down all your abilities and values on your character sheet that the race gives you at the level you start on. 
+3. Note down your base movement stats, as described in the Movement chapter. 
+4. Pick a class and write down all the abilities and values it adds to your base features and abilities at the level you start on. 
+5. Pick your skills. Start with 20 points at first level, with a maximum of 4 + your current level per skill. Don't forget that you can earn points back by adding up to a -3 modifier on a skill as well. 
+6. Get your equipment based on one of the starter packs and add additional items your character would carry, in consultation with your GM. 
+7. Write a background story befitting your earlier picks and write the basics of it down on your character sheet. 
+8. Hand your character-sheet and backstory to your GM and listen to what they say, implementing possible feedback. 
 
 ## LEVELING UP
 If you level up, check your stats in the following order: 
-	1. Racial bonus features and ability scaling
-	2. Class bonus features and ability and HP scaling. Re-Roll if you get a 1. 
-	3. Movement scaling
-	4. Weapon scaling
-	5. Add 3 skill points, with a maximum value of 4 + your current level. 
+1. Racial bonus features and ability scaling
+2. Class bonus features and ability and HP scaling. Re-Roll if you get a 1. 
+3. Movement scaling
+4. Weapon scaling
+5. Add 3 skill points, with a maximum value of 4 + your current level. 
