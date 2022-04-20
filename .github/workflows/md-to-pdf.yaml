@@ -1,0 +1,22 @@
+name: Compile Markdown to PDF
+on: 
+  push  
+  # branches:
+  #   - main
+  workflow_dispatch
+
+jobs:
+  compile-markdown-to-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: Handbook
+          output_dir: pdfs
+          images_dir: Handbook/images
+          build_html: true
+      - uses: actions/upload-artifact@v1
+        with:
+          name: Handbook
+          path: pdfs
