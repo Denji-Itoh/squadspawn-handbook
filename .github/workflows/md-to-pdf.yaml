@@ -39,7 +39,7 @@ jobs:
             The current version of the official Squadspawn Handbook
           generateReleaseNotes: true
           artifactErrorsFailBuild: true
-          tag: latest
+          tag: $(git rev-parse --short "$GITHUB_SHA")
           commit: main
           name: Squadspawn Handbook
 
