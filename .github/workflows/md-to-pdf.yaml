@@ -31,6 +31,12 @@ jobs:
         with:
           name: Handbook
           path: pdfs          
+      - name: Tag branch
+        id: tag
+        uses: anothrNick/github-tag-action@2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WITH_V: true
       - uses: ncipollo/release-action@v1
         if: github.ref == 'refs/heads/main'
         with:
@@ -41,4 +47,5 @@ jobs:
           artifactErrorsFailBuild: true
           commit: main
           name: Squadspawn Handbook
+          tag: ${{ steps.tag.outputs.new_tag }}
 
