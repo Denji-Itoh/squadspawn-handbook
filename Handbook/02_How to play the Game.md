@@ -119,3 +119,29 @@ If you level up, check your stats in the following order:
 3. Movement scaling
 4. Weapon scaling
 5. Add 3 skill points, with a maximum value of 4 + your current level. 
+
+## EDGE CASES
+
+Sometimes, ruling might seem up for interpretation.
+Sometimes, they are seem conflicting.
+Sometimes, they lead to anger, which leads to hate and suffering.
+That is why some of these edge cases are explained in this section.
+
+### Invincibility
+
+Some skills or effects might turn a character invisible.
+This has made many people very angry and been widely regarded as a bad move.
+
+If a character is invisible, their presence cannot be detected by NPCs or characters that are unsuspecting or not specifically on the lookout. 
+Guards of an outpost, for example, are specifically on the lookout if the DM does not state otherwise.
+
+In combat, an invisible character has advantage on melee attacks.
+They do not gain advantage on ranged attacks.
+
+It is impossible for an enemy to hit an invisible character if they do not know the general direction of their position.
+The general direction of their position can be determined by a successful focus check against the invisible characters stealth check.
+In combat, this focus check requires an action, however, as part of the action, the position can be shared with other characters without expending an additional action, movement or other resource.
+If the general direction of the invisible characters position is known, any rolls targeting that character can be made, but with disadvantage.
+If an invisible character makes a ranged attack, the general direction of their position is known by every character observing this action until the invisibile character moves again.
+
+If a character that is invisible hits a melee attack and moves away from an enemy without disengaging, the enemies opportunity attack may be triggered and the attack roll is made normally without disadvantage.
