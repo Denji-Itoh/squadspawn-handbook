@@ -122,8 +122,8 @@ If you level up, check your stats in the following order:
 
 ## EDGE CASES
 
-Sometimes, ruling might seem up for interpretation.
-Sometimes, they are seem conflicting.
+Sometimes, rules might seem up for interpretation.
+Sometimes, they seem conflicting.
 Sometimes, they lead to anger, which leads to hate and suffering.
 That is why some of these edge cases are explained in this section.
 
