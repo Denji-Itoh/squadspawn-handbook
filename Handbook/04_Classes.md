@@ -41,3 +41,19 @@ You gain the following benefits per level:
 | | __Mechanic__: You gain +2 points and advantage on your Tinker skill. You also recognize the type and origin of any material of any object you investigate. |
 | 4 | __Easy as that__: You can repair basic things without an ability check. You can fully understand any machinery or device after spending a minute to investigate it. You also know where in the world to find materials, if you need any. |
 | 8 | __Weapon Modification__: You can modifiy weapons and enhance them. Doing so adds __1d6__ points of damage to the weapon you modified. You can modify one weapon during a long rest. |
+
+## Scout
+
+As a scout, you value speed over strength.
+You travel the lands at a fast space, sometimes ahead of your group or alone.
+Scouts slip through everyones's gingers, should they try to hunt you down.
+Whether you have been a lone traveler, a spy for your team, or a hunter searching for prey, you know your way around Ave better than anyone else.
+
+| Level |   |
+| --- | --- |
+| 1 | A base HP pool of 20 points. Your HP pool increases by __2d6__ points with each level. |
+| | __Swift__: You total movement is increased by half you base movement and you gain a +2 modifier for your __Movement__ skill. |
+| 4 | __Environmental Focus__:  Out in the wilderness, you can feel the general layout of your surroundings. |
+| | __Environmental Knowledge__: You have __advantage__ on __Knowledge__ checks related to the wilderness. |
+| 8 | __Sanic__: You base movement speed is doubled. |
+| | __Undetected__: When you scout ahead and are alone on your own, you have advantage on __Stealth__ checks. |
