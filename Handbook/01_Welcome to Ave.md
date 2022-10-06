@@ -81,11 +81,11 @@ As you can't die for good, society works entirely different. Law enforcement, sc
 Since you can't even starve to death (though food is definitely still eaten as a culinary experience), working for food isn't the main purpose of each inhabitant, more so people try to get stronger by themselves or get a good amount of friends that will protect them if need be. 
 
 Regarding money, the only currency is gold. In the following list you have some examples for values of certain goods and services. 
-1G --> Most groceries
-5G --> A round of beer for the whole group
-50G --> A night at the local tavern or a hotel
-500G --> A high end solar-powered laptop. 
-5.000G --> A large van, already fueled up. 
-50.000G --> A small one room apartment in a safe zone. 
+- 1G --> Most groceries
+- 5G --> A round of beer for the whole group
+- 50G --> A night at the local tavern or a hotel
+- 500G --> A high end solar-powered laptop. 
+- 5.000G --> A large van, already fueled up. 
+- 50.000G --> A small one room apartment in a safe zone. 
 
 *To be added: A list of professions*
