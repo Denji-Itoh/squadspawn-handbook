@@ -1,4 +1,6 @@
-Mechanic's Kit:
+# Equipment
+
+## Mechanic's Kit:
 
 - Two weapons of your choice
 - A backpack or similar storing accessory
@@ -10,7 +12,7 @@ Mechanic's Kit:
 - 2 bottles of oil
 - Hacking interface
 	
-Scholar's Kit:
+## Scholar's Kit:
 
 - One weapon of your choice
 - A backpack or similar storing accessory
@@ -22,7 +24,7 @@ Scholar's Kit:
 - 10 flares
 - Binoculars
 	
-Explorer's Kit: 
+## Explorer's Kit: 
 
 - Two weapons of your choice
 - A backpack or similar storing accessory
@@ -34,7 +36,7 @@ Explorer's Kit:
 - A grappling hook and 10m of rope
 - A non-lethal hunting trap
 
-Urbanite's Kit: 
+## Urbanite's Kit: 
 
 - One weapon of your choice
 - A backpack or similar storing accessory

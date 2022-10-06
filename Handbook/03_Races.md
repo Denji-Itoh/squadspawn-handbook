@@ -158,7 +158,7 @@ __Disguise__
 You can change your own appearance on a whim. You can do this as a free action. If someone touches you in your new disguise, it feels real. People can realize your disguise by contesting their Focus against your Ability check. You can turn yourself invisible, but if you move, your disguise blows. 
 
 __Invisibility__  
-Starting at third level, you can turn yourself invisible as an action and stay hidden while moving or attacking. If you take a hit, you must make an ability check against the enemy’s attack roll. If you fail the contest, you become visible again and can’t turn invisible again for your next round. Ranged attacks have disadvantage if you're invisible. For additional rules relating to combat, see the Combat Encounters page's section on invisibility rules. 
+Starting at third level, you can turn yourself invisible as an action and stay hidden while moving or attacking. If you take a hit, you must make an ability check against the enemy’s successful attack roll. If you fail the contest, you become visible again and can’t turn invisible again for your next round. Ranged attacks have disadvantage if you're invisible. For additional rules relating to combat, see the Combat Encounters page's section on invisibility rules. 
 
 __Greater Illusion__  
 Starting at fifth level, you can cast great illusions out of nowhere as an action. These can be up to the size of a three-story-building. If you take a hit, you must contest your ability vs. the attacker’s attack roll to uphold concentration. These illusions feel real until they try to damage someone or someone else tries to damage them. In that case, it becomes apparent for everyone they’re fake. 

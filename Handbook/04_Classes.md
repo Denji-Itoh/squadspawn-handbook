@@ -2,7 +2,7 @@
 
 Based <!-- Based? Based on what? --> on what you’ve been taught, how you were brought up or what you’re striving to do, there’s several classes you can pick from for your character. 
 There is no multi-classing.
-Pick your class based on the fighting and exploration style you wish for.
+Pick your class based on the fighting style you wish for.
 Class-independently you also gain features on level 2, 6 and 9.
 
 | | |
