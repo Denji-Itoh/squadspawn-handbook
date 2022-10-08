@@ -34,7 +34,7 @@ Before starting to create your character, you should read the first chapter of t
 - Luckily for Aveans they don't stay dead when killed off. After somewhat between an hour and a month, a dead Avean manifests themself again near trusted people or a trusted location. That process is agonizing, tiring and draining and leaves them behind weaker than they were before. It is to be absolutely avoided, but fortunately not the end. Their society is structured around this. 
 - Aveans die of old age once *the shimmer* gets hold of them. A white spot on their skin that quickly grows to wrap their whole body in white, weakening them until they can't move and removing their ability to manifest again after death. Slowly it eats away at the host and leaves behind nothing but white ash. 
 
-## Character Creation - A Check List
+## Character Creation - A Checklist
 No matter what level you're starting on, you have to follow several steps to create a character that suits you, after you've come up with an idea for one. With each of these steps come changes to note down on your character sheet. 
 1. Think of a character you would love to play and create a fitting backstory for them. Note the basics of it down on your character sheet. 
 2. On your first level, you have 1 Action, 1 Interaction and 1 Reaction. See: *Combat Encounters* section in this chapter. 
@@ -46,7 +46,7 @@ No matter what level you're starting on, you have to follow several steps to cre
 8. Create a background and update your character sheet accordingly. See: *Backgrounds* chapter. 
 9. Hand your character-sheet and backstory to your GM and listen to what they say, implementing possible feedback. 
 
-## Leveling Up - A Check List
+## Leveling Up - A Checklist
 Over the course of your journey you will reach certain milestones and accomplish goals. Occasionally, your GM might reward you with a level for reaching one of these points. 
 If you level up, check your stats in the following order: 
 1. Racial bonus features and ability scaling
