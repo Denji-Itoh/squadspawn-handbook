@@ -1,7 +1,7 @@
 # SKILL CHECKS
 Everything that is hard to do or needs some sort of skill needs a dice roll. You usually only use the twenty-sided dice if you’re outside combat. In combat, you additionally use six-sided dices for damage. More about that is written in the *Combat Encounters* chapter. 
-If you make a skill check you roll the aforementioned d20 and add whatever amount of points you've spent on that skill during your character creation. You should spend your skill points based on what playstyle you have and the type of character you built. 
-A naturally rolled 1 will always mean you failed the check, and a naturally rolled 20 will always mean you succeeded. 
+- If you make a skill check you roll the aforementioned d20 and add whatever amount of points you've spent on that skill during your character creation. You should spend your skill points based on what playstyle you have and the type of character you built. 
+- A naturally rolled 1 will always mean you failed the check, and a naturally rolled 20 will always mean you succeeded. 
 
 There are the following 17 skills, the first 5 being relevant for combat: 
 * Ranged Attack – How proficient are you with long-ranged weapons? (bows, rifles, etc.)
@@ -27,7 +27,7 @@ There are the following 17 skills, the first 5 being relevant for combat:
 - If there is an enemy with an attack covering a wide area, you are not able to dodge and thus have to take the hit with the defence option. So you might be more keen to that. On the other hand when rolling for the order of initiative in an encounter, you're using your Combat Dexterity value for the roll. As you see, pretty much every skill is needed at some point, so choose wisely. 
 - A character who is unbeatable in dodging but has zero movement or observance isn't realistic. Your GM should check your picked skills and decide if they fit your character. There are no boundaries so you can be who you want, not so you can break the game. But feel free to try and break the game, considering that. 
 - You might gain advantage or disadvantage on some skill checks based on your race and class options. If you have advantage, simply roll your check two times and pick the best result. For rolls with a disadvantage, pick the worse outcome. 
-- If you gain advantage two times because of a certain combination of options for your character, add a +2 bonus to the roll instead of rolling more than two times. If you gain disadvantage two times, you get a -2 penalty instead. 
+- If you gain advantage two times because of a certain combination of options for your character, add a +3 bonus to the roll instead of rolling more than two times. If you gain disadvantage two times, you get a -3 penalty instead. 
 - If you fail a check, your GM decides how long it takes until you try again. 
 
 

@@ -38,6 +38,7 @@ One thing that is certain already is that down the line you will - eventually - 
 - Once you return from death, you're most likely weaker than before. The void has taken a toll on your body and mind and you need to recover from it. 
 
 - Once you're around 70 to 80 years old, you start to develope a sickness, the *shimmer*, as people call it. It starts as a small, harmless white spot on your skin. As time goes by, that spot grows bigger, enveloping more and more of your body. It starts to limit your movement and cripple your mind. 
+- If you read this, text me "I've actually read the lore" in my DMs and you get Inspiration (you can re-roll a dice and take the better result if you need a re-roll). 
 - Not everyone is affected the same way, but the loss of strength and focus is inevitable for all. And, probably worst of all, they gradually lose their ability of rebirth. 
 - By the time an inhabitant dies, the "shimmer" has enveloped their whole body. If someone kills them off, they remain gone, with no way to manifest their body back to life. Even if they manage to stay alive after that, eventually the shimmer itself will eat away the sick host, slowly causing its body to fall apart, leaving nothing but white ash. 
 - The shimmer is the horrible fate awaiting each and every one of the inhabitants of Ave. 

@@ -8,12 +8,12 @@ Sounds interesting to you? In that case, you should read the Squadspawn GM handb
 But keep in mind; if you read it, you know everything about Ave. You know why things are the way they are. You may not be able to play the game the way a normal player can. If you only want to GM occasionally to give your usual GM a little break you can just make up your own characters or ask them what you are allowed to do without disturbing their ‘greater plan’. 
 
 ### The Player Character
-As a player, you should choose races and classes that suit you. You can roleplay a racist extremist if you want to, or have a whole group of clowns patrol the lanes of Ave. But optimally you play a character with a lot of depth to them, that you enjoy playing and that can handle serious things happening around them. You and your fellow players, you’re gonna be a team. The world is going to try and rip you all apart, and you must withstand that. Solo players usually get ripped apart by some part of Ave sooner or later. 
-That does not mean that you can’t play a secretly evil character that stabs the rest of the crew in the back sometime down the line, but if you don’t give your character reason or interest in being in a group travelling the lands of Ave, then you’ll find yourself troubled playing the game.
-So, long story short; play whatever you want, but keep in mind that this is at its core team-based, brutal and serious. If you play a class clown, the local tribe might not be too keen on your jokes. But, knowing that, feel free to be creative. 
+As a player, you should choose races and classes that suit you. You can roleplay a slave trader if you want to, or have a whole group of clowns patrol the lanes of Ave. Optimally you play a character with a lot of depth to them, that you enjoy playing and that can handle serious things happening around them. You and your fellow players, you’re gonna be a team. The world is going to try and rip you all apart, and you must withstand that. Solo players usually get taken out by some part of Ave sooner or later. 
+That doesn't mean that you can’t play a secretly evil character that stabs the rest of the crew in the back sometime down the line, but if you don’t give your character reason or interest in being in a group travelling the lands of Ave, then you’ll find yourself troubled playing the game.
+So, long story short; play whatever you want, but keep in mind that this is at its core team-based, brutal and serious. If you play a class clown, the local nomad tribe might not be too keen on your jokes. But, knowing that, feel free to be creative. 
 
 ## Lore Summary
-Before startingto create your character, you should reach the first chapter of this handbook. The following is only a quick summary of the world of Ave to help you create your character. NOTE: As this is alpha material, there might even be some new info here. 
+Before starting to create your character, you should read the first chapter of this handbook. The following is only a quick summary of the world of Ave to help you create your character. NOTE: As this is alpha material, there might even be some new info here. 
 - The world of Ave isn't huge. By car you can travel from the eastern to the western shore in 20 days with only minor complications and proper breaks for sleep. 
 - Aside from the rough location of the shores, the land is changing rapidly and cannot be properly mapped out. 
 - That is due to devastating *super-storms* the locals call *XXX*. After these storms deserts disappear and make room for forests, and mountains vanish to give place to giant lakes. 
@@ -30,10 +30,11 @@ Before startingto create your character, you should reach the first chapter of t
 - Because resources are found this way, barely any are ever harvested naturally. You can find fully functional guns, cars and machines out and about. 
 - Aside from scavengers you can also find bounty hunters, soldiers of an alliance, refugees from a recent town takeover, adventurers and lovers who escaped the shackles of their alliance out in the unset areas. 
 - In the unset areas of Ave you can also stumble upon hordes of monsters. These monsters are considered to be the other side of the coin to the Aveans themselves, and are purely out to kill them. As far as it is known they don't require nourishment and experience joy when killing Aveans. Their appearance varies greatly, but they're usually made up of dark matter with glowing white eyes. They can be as big as a rat or have the height of  five-story building. They're usually kept out of safe zones by guards and high walls. 
+- If you read this, text me "I've actually read the summary" in my DMs and you get Inspiration (you can re-roll a dice and take the better result if you need a re-roll). 
 - Luckily for Aveans they don't stay dead when killed off. After somewhat between an hour and a month, a dead Avean manifests themself again near trusted people or a trusted location. That process is agonizing, tiring and draining and leaves them behind weaker than they were before. It is to be absolutely avoided, but fortunately not the end. Their society is structured around this. 
 - Aveans die of old age once *the shimmer* gets hold of them. A white spot on their skin that quickly grows to wrap their whole body in white, weakening them until they can't move and removing their ability to manifest again after death. Slowly it eats away at the host and leaves behind nothing but white ash. 
 
-## Character Creation
+## Character Creation - A Check List
 No matter what level you're starting on, you have to follow several steps to create a character that suits you, after you've come up with an idea for one. With each of these steps come changes to note down on your character sheet. 
 1. Think of a character you would love to play and create a fitting backstory for them. Note the basics of it down on your character sheet. 
 2. On your first level, you have 1 Action, 1 Interaction and 1 Reaction. See: *Combat Encounters* section in this chapter. 
@@ -45,7 +46,7 @@ No matter what level you're starting on, you have to follow several steps to cre
 8. Create a background and update your character sheet accordingly. See: *Backgrounds* chapter. 
 9. Hand your character-sheet and backstory to your GM and listen to what they say, implementing possible feedback. 
 
-## Leveling Up
+## Leveling Up - A Check List
 Over the course of your journey you will reach certain milestones and accomplish goals. Occasionally, your GM might reward you with a level for reaching one of these points. 
 If you level up, check your stats in the following order: 
 1. Racial bonus features and ability scaling
