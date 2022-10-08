@@ -46,4 +46,5 @@ jobs:
           tag: ${{needs.tag_version.outputs.new_tag}}
           commit: main
           name: Squadspawn Handbook
+          draft: true
 
