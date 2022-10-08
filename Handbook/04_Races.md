@@ -2,20 +2,20 @@
 
 Kara are known for aiding each other in times of trouble and sticking together tightly in their safe zones. They travel Ave in greater groups of people and take comfort in their number. 
 The race of the Kara are often seen as the potentially most dangerous species in Ave. They’re able to create and control flames that are so black they sometimes scare wild monsters off by themselves. They also have excellent healing abilities, where their flames can restore even lost limbs over time. 
-Kara are known for helping each other out when they can, forming long-lasting companionships and strong groups of travellers. Protective and with a strong sense for justice, you may stumble across a group of Kara trying to fix problems that aren’t theirs. This race is kind-hearted, yet unforgiving if you hurt one of them. They preferably travel in larger groups, from ten to 30 people on their home continent, Aldea. 
-Their current king is called ‘Glaive’ and has successfully kept peaceful relations with most other alliances since his reign. 
+Kara are known for helping each other out when they can, forming long-lasting companionships and strong groups of travellers. Protective and with a strong sense for justice, you may stumble across a group of Kara trying to fix problems that aren’t theirs. This race is kind-hearted, yet unforgiving if you hurt one of them. They preferably travel in larger groups, from ten to 30 people on their home continent, Moore. 
+Their current king ‘Glaive’ has successfully kept peaceful relations with most other alliances since his reign. 
 
 __Black Flames__  
 They can create strong flames and attack with them as a close-combat action. 
-1d6 when attacking a single enemy up to 2m away
+1d6 when attacking a single enemy up to 1m away. 
 You can also decide to go for a field-covering attack, using half your usual damage dice rounded up per hit in a 1m radius from a point you can see within your usual range. 
 With every level, add 1d6 to attack rolls and 1m to reach and radius of your attacks. 
 
 __Utility Flames__  
-Their flames can also be used outside of combat to spend warmth for themselves or fellow companions, or to burn down structures, though that requires concentration to uphold, or the flame will extinguish without receiving power remotely from you. 
+Their flames can also be used outside of combat to spend warmth for themselves or fellow companions, or to burn down structures, though that requires focus to uphold, or the flame will extinguish without receiving power remotely from you. 
 
 __Flaming pockets__  
-Starting on third level, you can hide items with your flames whenever you want. Once hidden, an item is basically not there anymore until you die or want them to come back to you. If the item is emitting aura, enemies can use focus to find out about it. 
+Starting on third level, you can hide items with your flames whenever you want. Once hidden, an item is basically not there anymore until you die or want them to come back to you. If the item is emitting aura, enemies can use their focus to find out about it. 
 You can hide one item per level, starting with three items on your third level  
 
 __Regenerative Flames__  

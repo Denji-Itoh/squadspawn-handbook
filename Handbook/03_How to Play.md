@@ -1,21 +1,4 @@
-
-# How to Play the Game
-This is a pen & paper roleplaying game. You make a character that you play as and travel through the partially pre-set world with fellow players, overcoming obstacles that your GM (Gamemaster) is putting in front of you and following a story-line that is partially pre-set and executed as well as completed by – again – your GM. 
-
-### The Gamemaster
-So, he does most of the work - but he’s also the one in control. The GM is not limited to one character, since he can make you meet whoever he wants. And he is responsible for binding your character’s backstory into the main storyline and give you spotlight from time to time. He’s responsible for ensuring the players have fun, and making sure the story plays out nicely for everyone involved. A lot of responsibility, but also a lot of creativity that you can unleash onto your players, enchanting them in your world and your characters. 
-Sounds interesting to you? In that case, you should read the Squadspawn GM handbook. 
-But keep in mind; if you read it, you know everything about Ave. You know why things are the way they are. You may not be able to play the game the way a normal player can. If you only want to GM occasionally to give your usual GM a little break you can just make up your own characters or ask them what you are allowed to do without disturbing their ‘greater plan’. 
-
-### The Player Character
-As a player, you should choose races and classes that suit you. You can roleplay a racist extremist if you want to, or have a whole group of clowns patrol the lanes of Ave. But optimally you play a character with a lot of depth to them, that you enjoy playing and that can handle serious things happening around them. You and your fellow players, you’re gonna be a team. The world is going to try and rip you all apart, and you must withstand that. Solo players usually get ripped apart by some part of Ave sooner or later. 
-That does not mean that you can’t play a secretly evil character that stabs the rest of the crew in the back sometime down the line, but if you don’t give your character reason or interest in being in a group travelling the lands of Ave, then you’ll find yourself troubled playing the game.
-So, long story short; play whatever you want, but keep in mind that this is at its core team-based, brutal and serious. If you play a class clown, the local tribe might not be too keen on your jokes. But, knowing that, feel free to be creative. 
-
-
-
-
-## SKILL CHECKS
+# SKILL CHECKS
 Everything that is hard to do or needs some sort of skill needs a dice roll. You usually only use the twenty-sided dice if you’re outside combat. In combat, you additionally use six-sided dices for damage. More about that is written in the *Combat Encounters* chapter. 
 If you make a skill check you roll the aforementioned d20 and add whatever amount of points you've spent on that skill during your character creation. You should spend your skill points based on what playstyle you have and the type of character you built. 
 A naturally rolled 1 will always mean you failed the check, and a naturally rolled 20 will always mean you succeeded. 
@@ -50,8 +33,8 @@ There are the following 17 skills, the first 5 being relevant for combat:
 
 
 
-## COMBAT ENCOUNTERS 
-### General Combat Rules 
+# COMBAT ENCOUNTERS 
+## General Combat Rules 
 * Combat is turn-based, with an Initiative Roll deciding the turn order. That roll is made with a Dexterity check. 
 * The higher your check is, the earlier you can start your turn. If you were the one to initiate combat however, you have advantage on your Initiative Roll. If the enemies have no way of knowing that you're trying to attack them, they have to roll with disadvantage. Same goes for player characters. You can still come last even if you wanted to surprise someone, but on the other side of that spectrum you can also realize someone is trying to attack you from a hidden location because you felt their presence or heard their weaponry. 
 * One turn of combat takes 5s. 
@@ -70,19 +53,18 @@ There are the following 17 skills, the first 5 being relevant for combat:
 * Enemies have the same action economy as you.  
 * You can talk freely during combat, but interactions with each other and the enemy will be limited or interrupted by the GM, as combat continues. 
 
-### NPC Combat Rules
+## NPC Combat Rules
 * Regular NPCs generally cannot perform the Help reaction. 
 * Legendary NPCs might be able to perform the Help reaction. 
 
-### Invisibility Rules
+## Invisibility Rules
 * Through the power of the Shin or special items, it is possible for combatants to turn invisible. The following special rules apply in these scenarios. 
 * You're invisible, but not 100% imperceptible. You create sounds, smell, leave footprints or have rustling equipment. And you still emit aura, which enemies can detect passively or actively. You are granted with certain benefits however, as you're simply harder to nail down, especially while in ranged combat. 
 * If you're invisible, enemies can either contest their Observance vs. your Stealth, or their Focus vs. your Ability check without taking up any actions, but only once per turn. If they win the contest, they can attack you and know where you are, until the start of your turn. Ranged weapons have disadvantage on these attacks. 
 
 
 
-
-## RECOVERY
+# RECOVERY
 Once in a while you will need to take some time to tend to your wounds, recover your strength and calm yourself from the heat of combat. Such a break is defined as a Rest and is bound to the following rules: 
 * A rest must take at least three hours. 
 * You can't perform any physically or mentally taxing tasks during your rest. 
@@ -93,26 +75,3 @@ Doing so will reset the time you need until your rest is finished again.
 
 ### First Aid Kits
 In your adventures you might stumble upon first aid kits. With each of these kits, you can heal 2d6 hit points before you run out of equipment, as these are merely used for the most necessary treatment before you can take a proper rest. They take two combat rounds to apply and you can only carry one at a time. They are not related to a First Aid skill check to stabilize a creature. 
-
-
-
-
-## CHARACTER CREATION
-No matter what level you're starting on, you have to follow several steps to create a character that suits you, after you've come up with an idea for one. With each of these steps come changes to note down on your character sheet. 
-1. Think of a character you would love to play and create a fitting backstory for them. Note the basics of it down on your character sheet. 
-2. On your first level, you have 1 Action, 1 Interaction and 1 Reaction. See: *Combat Encounters* section in this chapter. 
-3. Pick a race that suits you and write down all your abilities and values on your character sheet that the race gives you at the level you start on. See: *Races* chapter. 
-4. Note down your base movement stats for the level you start on. See: *Movement* chapter. 
-5. Pick your skills. Start with 20 points at first level, plus 2 skill points per additional level you gain, with a maximum of 4 + your current level per skill. You can earn additional points by adding up to a -2 modifier on a skill as well. See: *Skill Checks* section in this chapter. 
-6. Pick a class and write down all the abilities and values it adds to your base features and abilities at the level you start on. See: *Classes* chapter. 
-7. Get your equipment based on one of the starter packs and add additional items your character would carry, in consultation with your GM. See: *Equipment* chapter. 
-8. Create a background and update your character sheet accordingly. See: *Backgrounds* chapter. 
-9. Hand your character-sheet and backstory to your GM and listen to what they say, implementing possible feedback. 
-
-## LEVELING UP
-If you level up, check your stats in the following order: 
-1. Racial bonus features and ability scaling
-2. Class bonus features and ability and HP scaling. Re-Roll if you get a 1. 
-3. Movement scaling
-4. Weapon scaling
-5. Add 2 skill points, with a maximum value of 4 + your current level. 
