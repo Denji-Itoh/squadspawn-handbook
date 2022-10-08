@@ -48,11 +48,11 @@ jobs:
           body: |
             The current version of the official Squadspawn Handbook
             
-            ${{steps.tag_version.outputs.changelog}}
+            ${{ steps.tag_version.outputs.changelog }}
           generateReleaseNotes: true
           artifactErrorsFailBuild: true
-          tag: ${{steps.tag_version.outputs.new_tag}}
+          tag: ${{ steps.tag_version.outputs.new_tag }}
           commit: main
           name: Squadspawn Handbook
-          draft: github.ref != 'refs/heads/main'
+          draft: ${{ github.ref != 'refs/heads/main' }}
 
