@@ -54,5 +54,5 @@ jobs:
           tag: ${{steps.tag_version.outputs.new_tag}}
           commit: main
           name: Squadspawn Handbook
-          draft: true
+          draft: github.ref != 'refs/heads/main'
 
