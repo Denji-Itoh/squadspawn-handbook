@@ -43,16 +43,15 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Release Handbook
         uses: ncipollo/release-action@v1
-        needs: tag_version
         with:
           artifacts: pdfs/handbook.pdf
           body: |
             The current version of the official Squadspawn Handbook
             
-            ${{needs.tag_version.outputs.changelog}}
+            ${{steps.tag_version.outputs.changelog}}
           generateReleaseNotes: true
           artifactErrorsFailBuild: true
-          tag: ${{needs.tag_version.outputs.new_tag}}
+          tag: ${{steps.tag_version.outputs.new_tag}}
           commit: main
           name: Squadspawn Handbook
           draft: true
