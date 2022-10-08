@@ -55,4 +55,3 @@ jobs:
           commit: main
           name: Squadspawn Handbook
           draft: ${{ github.ref != 'refs/heads/main' }}
-
