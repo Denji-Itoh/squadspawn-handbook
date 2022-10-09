@@ -1,4 +1,6 @@
-# Kara
+# RACES
+
+## Kara
 
 Kara are known for aiding each other in times of trouble and sticking together tightly in their safe zones. They travel Ave in greater groups of people and take comfort in their number. 
 The race of the Kara are often seen as the potentially most dangerous species in Ave. They’re able to create and control flames that are so black they sometimes scare wild monsters off by themselves. They also have excellent healing abilities, where their flames can restore even lost limbs over time. 
@@ -27,7 +29,7 @@ Detonation: Once you reach level 7, you can cause explosions by touch that you a
 __Melt__  
 Once you are on your tenth level, you can use your powers to melt things you touch or things that are near you (depending on your roll). Applied on a creature or structure, this deals 5d20 damage, re-rolling everything below 5. With this ability, you can melt your way through every obstacle. Every fifth level, you can add a d20 to the damage.
 
-# RAGIN
+## Ragin
 
 Ragin are spontaneous, fast-thinking and fun-seeking beings. Whatever might be fun to them might not be so enjoyable for you, however. 
 They have similar elemental powers to the Kara. Instead of flames, they have lightning abilities that allow them to shoot bolts as long-ranged attacks. They have always had a feud with the Blcakflsmrd because of their similar powers and provoke them on a regular basis. So far, they haven’t been able to beat them due to the Ragin being less organized, and more scattered across all three continents while the Kara prefer to stay on their home continent in larger groups. 
@@ -51,7 +53,7 @@ On level 7, you can control the weather in a 100m radius to create a storm that 
 __Sonic speed__  
 You can change your form into that of a lightning and travel at its speed to wherever you want. If you hit an obstacle you deal 5d20 damage to it, re-rolling everything below a 5, and turn back into your original form. You can stay in this form for up to a minute, but if you transform back after hitting an obstacle or running out of said time, you need to wait a minute to use the ability again. Every fifth level, you can add a d20. 
 
-# DREE
+## Dree
 This race is seen as the most noble, and sometimes arrogant one. They prefer to stay in their part of the lands and not travel too far outside of it. Their relatively peaceful and well-ordered cities are all they need. Only rarely will you see a Dree travel through the world of Ave, but if you do, you should be on your guard. 
 This race can create ice. Once trained, it is no problem for them to ‘forge’ weapons out of it. With those powers, they keep a big part of the world covered in ice. If a storm appears and restructures an unset area, they take it back, marking it as their own essentially. 
 Their king is ‘Ilsen’, also known as the ‘godslayer’, since he has beaten two other kings that turned against him within one three-minute fight. His name alone keeps other races away from his territory. 
@@ -74,7 +76,7 @@ On your seventh level, you get the ‘Summoning’ ability. With that, you can c
 __Mass Creation__  
 Starting at tenth level, you can use your ice mending powers to great great structures out of ice, up to the size of a 3-story-building. If people or other structures are in the way, they will usually get shoved aside without taking any damage. Double the size every five levels. 
 
-# NESS
+## Ness
 Water beings, usually more calm. Don’t participate in fights too often unless they’re threatened. 
 Made up of water, which is useful in- and outside of combat, mostly for dodging hits. They tend to settle down in smaller safe zones rather quickly in their life and keep a low profile. 
 Their alliance isn’t the most ambitious one, but their queen, Elleen, manages to watch over her people quite well in dodging greater wars between other alliances. 
@@ -100,7 +102,7 @@ __Tsunami__
 Starting at tenth level, you can create water out of nowhere for the duration of this attack. You can cause a gigantic wave to rush over an area, with people hit by it receive 1d20 points of damage. It is 3m wide in radius and grows twice the size every fifth level. 
 You also gain the ability to manipulate huge liquid bodies. 
 
-# KAMI
+## Kami
 These folks tend to be lighthearded, over the top crazy beings that are just as jumpy as their main ability. 
 Their abilities stem from two sources; light and teleportation. They can cast light as a distraction, illuminate their surroundings or turn The darkest night into bright daylight, if strong enough, and have the extraordinary ability to teleport to wherever their please. 
 Their alliance is deemed as not too dangerous in itself, but most races tend to keep Lightborns their friend, as they are extremely useful for scout operations and messaging. Their king, ‘Loomis’, has managed to build a network of messengers that are stationary in most major cities, to allow for message transportation over continents quickly. 
@@ -123,13 +125,13 @@ Starting at seventh level, you grant the ability to manipulate the light of your
 __Duplication__  
 Starting at 10th level, you can duplicate yourself. The both of you are connected, still one and the same person, but you can take double the amount of actions that you are usually able to do while in this form. However, your hit points are split between the two of you. Once one duplicate hits zero hit points, it disappears. You can do this once per rest. You can create an additional duplicate every five levels and gain one usage per rest. 
 
-# ARNO
+## Arno
 Arno are usually calm beings that travel Ave at a slow pace and prefer to stay out of harm’s way. They do tend to follow their king’s orders without question however, and as such are recently seen more and more often to be overtaking set areas. 
 Their abilities are plant-based, creating vines and vegetations that either trap, hurt or devour their enemies – or just make the space they’re in a bit more lively. 
 Their king, ‚Daeron’, has only recently taken over control and has had a much more aggressive way of handling things than most of his predecessors. 
 
 __Vine Strike__  
-Starting at first level, you can create plants out of nowhere around you. You can use this ability to strike enemies with your creations and their force, dealing 1d6 damage to a single target that is up to 10ft away. Add 1d6 and 10ft every level you gain. 
+Starting at first level, you can create plants out of nowhere around you. You can use this ability to strike enemies with your creations and their force, dealing 1d6 damage to a single target that is up to 2m away. Add 1d6 and 2m every level you gain. 
 
 __Detection Work__  
 You can use vines you bury into the ground to search your environment for whatever you’re in need of. The range of this is 20m, with 20m being added every level. 
@@ -146,7 +148,7 @@ Starting at seventh level, you can spontaneously create great amounts of life ar
 __Power of Life__  
 Starting at tenth level, your biomes can paralyze or poison enemies. The damage through biome poisoning is twice as much as your Poison Ivy ability would usually suggest. You can select who is affected. Additionally, you can sense how many people are where in your biome. 
 
-# SHIN
+## Shin
 This race is usually frowned upon by all others, reason being them usually deceiving everyone around them. Shin are focused on the task at and don’t care too much for collateral damage when it comes to obtaining what they want. 
 They can create illusions through glowing smoke. They can disguise themselves, go invisible, or create greater illusions around them that – at some point in their development – gain substance and thus are able to actually deal damage. 
 Their current queen, Vee, is not hiding her intentions of slowly taking over Ave. Because of that, she has made herself many enemies – some within her alliance. 
@@ -169,7 +171,7 @@ Starting at seventh level, you can enchant enemies by touch. If they realize you
 __Conjuration__  
 Starting at tenth level, your projections become real. They can take and deal damage. Depending on the size and monstrosity of your illusion, they can deal up to 5d20 damage on a single target, where everything below a 5 is re-rolled. If someone tries to Focus check your illusion, you have advantage on the Ability contest. If you take a hit, you must contest your ability vs. the attacker’s attack roll to uphold concentration. 
 
-# ZEN
+## Zen
 This race is one of the few ones that aren't immediately distrusted for safety reasons, mostly because of their lightheartedness and social structure. Their alliance allows for all races to be present in their city with few regulations, which already sets them apart from most other races. 
 They can create and manipulate sonic waves with their thoughts alone, making themselves and others inaudible to everyone around them, or creating distractions. At some point, some of them even manage to deafen their enemies and cause physical damage and knockback through their sheer force. 
 Their current queen, Elar, is known for being on good terms with every other reasonable royal out there. She has the reputation of a "party queen", which unfortunately is one of the reasons why more extreme Zen don't want her as their leader - her seeming lack of ambitions. 
@@ -192,7 +194,7 @@ Starting at seventh level, you can create soundwaves with such a force that they
 __Blastwave__  
 Starting at tenth level, your soundwaves become destructive. You can create sonic events that completley shatter environments in a 6m radius cube in front of you and cause 1d20 points of damage. Every fifth level you can add 1d20 and add 6m to their radius. 
 
-# TARO
+## Taro
 The Taro are known to be the most hard to kill creatures alongside the Ness. 
 Their bodies are made of metal and they can reforge them into weapons, or cloak themselves under a layer of natural armour. As they are so hard to kill, they're known to travel in groups of two through the world of Ave. Enough to keep themselves alive, not enough to cause serious issues. 
 Their current king is called Pera, known to be focussed on defending what they have rather than risk it in risky wars. This way of living in Ave has been tradition for the Taro for long enough to be burned into most of their ethics. 
@@ -216,7 +218,7 @@ Starting at seventh level, if you’d be hit with an attack, you can choose to n
 __Immovable Force__  
 At tenth level, you master expertise in your body physique. You become an immovable force, able to burst through walls like nothing, or counter the momentum of a car racing towards you by simply standing in its way. Damage dealt by other beings against you is halved. 
 
-# AHRI
+## Ahri
 The race of the Ahri is one that most other alliances have mixed feelings about. They have accumulated a lot of influence through collaborating with different races and have made as many enemies as they have made friends in doing so. They live in small cities that are cut off mountain tips with structures placed on top of them. They live in these structures above the ground and far from conflict - the only problem being their lack of safe zones. So they help out different alliances at different times in various tasks for what's essentially a rental above their cities when geo storms are incoming. 
 This race can defy gravity for themselves and others, make objects or entire cities float depending on their strength level and chain their enemies to the ground. They tend to live exclusively on their floating biomes and evade battles if possible, as they're not the naturally most offensive group of people. 
 Their current queen 'Fae' is part of a very powerful bloodline among the Ahri, with an important difference between other alliances; she's been elected by her people. Fae's entire bloodline is known to be irregularly strong, and to keep peace within themselves and prioritize stability, they let the people decide who should wear their crown. With that mindset, they're already more diplomatic than most other races. 

@@ -1,6 +1,6 @@
-# Classes
+# CLASSES
 
-Based <!-- Based? Based on what? --> on what you’ve been taught, how you were brought up or what you’re striving to do, there’s several classes you can pick from for your character. 
+Based on what you’ve been taught, how you were brought up or what you’re striving to do, there’s several classes you can pick from for your character. 
 There is no multi-classing.
 Pick your class based on the fighting style you wish for.
 Class-independently you also gain features on level 2, 6 and 9.
@@ -79,7 +79,7 @@ You gain the following benefits per level:
 
 ## Hardliner
 
-As a guardian, you're a staple of protection for everyone around you. You're the glue that keeps a group stable and make sure your peers keep moving forward. You don't back down from a fight as long as you have your people beside you. Whether you've been a town guard, a bodyguard or recently lost your group and are in search of a new home; you're a teamplayer, you shine at bringing out the best in everyone. 
+As a hardliner, you're hell-bent on kicking in the door before checking if it was locked in the first place, simply because it makes for a good entrance. Whether you've been the brute of a local gang, kept people safe from evildoer's influences with your might, or are a prisoner who overthrew the guards to see your family again; you're a force of destruction and people recognize that the moment they see you. 
 
 You gain the following benefits per level: 
 
@@ -123,9 +123,9 @@ You gain the following benefits per level:
 
 
 
-## Urchin (WIP)
+## Rat
 
-As an urchin, you're from the streets. You were raised in the city, witnessing all the chaos, the good and the bad, happening on a daily basis in this tight space filled with too many people fighting each other. Whether you're a gang member, a street kid who had to make a living among all this chaos, or a businessman climbing the ladder; the city has been your mentor. 
+As a rat you survived not necessarily because of your strength, but because you realized when a fight was lost long before others ever could. You knew who to avoid, who to stick to, and always had your gaze on the nearest escape route in any tight situation. No matter if you were a street gang member, a prison escapee or other fugitive or maybe even a former lover running from their way too powerful psycho ex partner, these practices have served you well. 
 
 You gain the following benefits per level: 
 
@@ -133,7 +133,7 @@ You gain the following benefits per level:
 | Level |     |
 | --- | --- |
 | 1 | A base HP pool of 20 points. Your HP pool increases by __2d6__ points with each level. |
-| | __Alert__: You're always alert for attacks. This gives you advantage on your Observance skill and your Dexterity check when rolling for Initiative. |
-| 4 | __Fast Escape__: When deciding to escape combat, you and your allies can take the Dash action as a reaction once until said combat ends. |
-| 8 | __Last Man Standing__: TBD |
+| | __Alert__: You're always alert for attacks. This gives you advantage on your Observance skill and your Dexterity check when rolling for Initiative. On your first turn of combat, you can take the Dash action for free. |
+| 4 | __Fast Escape__: When deciding to escape combat, you and your allies can take the Dash action as a reaction once until said combat ends. Additionally, you always know where the nearest safe hideout lies hidden. |
+| 8 | __Not sure about this boss__: You can sense the cumulative power levels of anyone around you and whether a fight is lost to begin with or not. Others cannot hide their strength from your paranoia. |
 

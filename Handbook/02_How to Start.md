@@ -1,4 +1,3 @@
-
 # HOW TO START
 This is a pen & paper roleplaying game. You make a character that you play as and travel through the partially pre-set world with fellow players, overcoming obstacles that your GM (Gamemaster) is putting in front of you and following a story-line that is partially pre-set and executed as well as completed by – again – your GM. 
 
@@ -28,6 +27,7 @@ Before starting to create your character, you should read the first chapter of t
 - There's groups, packs and tribes of nomads out in the wild who scavenge *structures* for resources that can appear along with biomes after a storm has restructured the area. 
 - These structures can be cities, towns, buildings or just a parking lot and can appear in the middle of nowhere. They contain resources harvested by scavengers to be sold in safe zones or to other people in the unset areas. 
 - Because resources are found this way, barely any are ever harvested naturally. You can find fully functional guns, cars and machines out and about. 
+- The technological standard of Ave varies. Structures can be medieval, steampunk or cyberpunk when it comes to tech available within them. Everything exists simultaneously in some part of the world, and your character can either wield a bow and arrow or a lightsaber. 
 - Aside from scavengers you can also find bounty hunters, soldiers of an alliance, refugees from a recent town takeover, adventurers and lovers who escaped the shackles of their alliance out in the unset areas. 
 - In the unset areas of Ave you can also stumble upon hordes of monsters. These monsters are considered to be the other side of the coin to the Aveans themselves, and are purely out to kill them. As far as it is known they don't require nourishment and experience joy when killing Aveans. Their appearance varies greatly, but they're usually made up of dark matter with glowing white eyes. They can be as big as a rat or have the height of  five-story building. They're usually kept out of safe zones by guards and high walls. 
 - If you read this, text me "I've actually read the summary" in my DMs and you get Inspiration (you can re-roll a dice and take the better result if you need a re-roll). 

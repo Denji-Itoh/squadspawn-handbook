@@ -1,4 +1,10 @@
-# SKILL CHECKS
+# HOW TO PLAY
+
+## Measurement and Numbers
+Distances are measured using the metric system. Your character takes up a field of 1m² and their movement speed is also measured in metres, for example. 
+Some abilities and values scale up e.g. 2,5d6 per level. What this means is that on the first level you gain with this ability you gain 2d6, and on the second level you gain 3d6. This is a test and might be changed, it is currently an important way to counter immense differences in power scaling down the line. 
+
+## Skill Checks
 Everything that is hard to do or needs some sort of skill needs a dice roll. You usually only use the twenty-sided dice if you’re outside combat. In combat, you additionally use six-sided dices for damage. More about that is written in the *Combat Encounters* chapter. 
 - If you make a skill check you roll the aforementioned d20 and add whatever amount of points you've spent on that skill during your character creation. You should spend your skill points based on what playstyle you have and the type of character you built. 
 - A naturally rolled 1 will always mean you failed the check, and a naturally rolled 20 will always mean you succeeded. 
@@ -33,8 +39,8 @@ There are the following 17 skills, the first 5 being relevant for combat:
 
 
 
-# COMBAT ENCOUNTERS 
-## General Combat Rules 
+## Combat Encounters
+### General Combat Rules 
 * Combat is turn-based, with an Initiative Roll deciding the turn order. That roll is made with a Dexterity check. 
 * The higher your check is, the earlier you can start your turn. If you were the one to initiate combat however, you have advantage on your Initiative Roll. If the enemies have no way of knowing that you're trying to attack them, they have to roll with disadvantage. Same goes for player characters. You can still come last even if you wanted to surprise someone, but on the other side of that spectrum you can also realize someone is trying to attack you from a hidden location because you felt their presence or heard their weaponry. 
 * One turn of combat takes 5s. 
@@ -53,25 +59,25 @@ There are the following 17 skills, the first 5 being relevant for combat:
 * Enemies have the same action economy as you.  
 * You can talk freely during combat, but interactions with each other and the enemy will be limited or interrupted by the GM, as combat continues. 
 
-## NPC Combat Rules
+### NPC Combat Rules
 * Regular NPCs generally cannot perform the Help reaction. 
 * Legendary NPCs might be able to perform the Help reaction. 
 
-## Invisibility Rules
+### Invisibility Rules
 * Through the power of the Shin or special items, it is possible for combatants to turn invisible. The following special rules apply in these scenarios. 
 * You're invisible, but not 100% imperceptible. You create sounds, smell, leave footprints or have rustling equipment. And you still emit aura, which enemies can detect passively or actively. You are granted with certain benefits however, as you're simply harder to nail down, especially while in ranged combat. 
 * If you're invisible, enemies can either contest their Observance vs. your Stealth, or their Focus vs. your Ability check without taking up any actions, but only once per turn. If they win the contest, they can attack you and know where you are, until the start of your turn. Ranged weapons have disadvantage on these attacks. 
 
 
 
-# RECOVERY
+## RECOVERY
 Once in a while you will need to take some time to tend to your wounds, recover your strength and calm yourself from the heat of combat. Such a break is defined as a Rest and is bound to the following rules: 
 * A rest must take at least three hours. 
 * You can't perform any physically or mentally taxing tasks during your rest. 
 Doing so will reset the time you need until your rest is finished again. 
 * You should mention when you're about to start your rest. 
 * You can also ask if you've received a rest in hindsight of downtime your characters experienced - if the GM allows for it. 
-* Additionally to resting, your characters also need to sleep once in a while. Having a sleepless night will give you 'Exhaustion', which will give you disadvantage on any check you make. 
+* Additionally to resting, your characters also need to sleep once in a while. Having a sleepless night will give you *Exhaustion*, which will give you disadvantage on any check you make. Exhaustion can stack and give you a cumulative -3 penalty additionally to your initial disadvantage. 
 
 ### First Aid Kits
 In your adventures you might stumble upon first aid kits. With each of these kits, you can heal 2d6 hit points before you run out of equipment, as these are merely used for the most necessary treatment before you can take a proper rest. They take two combat rounds to apply and you can only carry one at a time. They are not related to a First Aid skill check to stabilize a creature. 
