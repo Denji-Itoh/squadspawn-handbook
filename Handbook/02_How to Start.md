@@ -53,4 +53,4 @@ If you level up, check your stats in the following order:
 2. Class bonus features and ability and HP scaling. Re-Roll if you get a 1. 
 3. Movement scaling
 4. Weapon scaling
-5. Add 2 skill points, with a maximum value of 4 + your current level. 
+5. Add 3 skill points, with a maximum value of 4 + your current level. 

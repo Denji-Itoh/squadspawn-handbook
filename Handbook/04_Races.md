@@ -108,7 +108,7 @@ Their abilities stem from two sources; light and teleportation. They can cast li
 Their alliance is deemed as not too dangerous in itself, but most races tend to keep Lightborns their friend, as they are extremely useful for scout operations and messaging. Their king, ‘Loomis’, has managed to build a network of messengers that are stationary in most major cities, to allow for message transportation over continents quickly. 
 
 __Teleportation__  
-Lightborns can teleport right from their birth. Starting at level one, you’ll be able to teleport for 40ft. If you do so, you can only teleport 4m next time, then 2, then 1, until you can’t teleport at all anymore. Every turn you don’t use this ability takes you a step back up again, until you’re fully charged again. 
+Lightborns can teleport right from their birth. Starting at level one, you’ll be able to teleport for 8m. If you do so, you can only teleport 4m next time, then 2, then 1, until you can’t teleport at all anymore. Every turn you don’t use this ability takes you a step back up again, until you’re fully charged again. 
 
 __Light__  
 Lightborns are able to touch objects and make them glow, until they choose to make it stop or are out of distance. You can also create illusions of light with your hands. 
@@ -160,7 +160,7 @@ __Disguise__
 You can change your own appearance on a whim. You can do this as a free action. If someone touches you in your new disguise, it feels real. People can realize your disguise by contesting their Focus against your Ability check. You can turn yourself invisible, but if you move, your disguise blows. 
 
 __Invisibility__  
-Starting at third level, you can turn yourself invisible as an action and stay hidden while moving or attacking. If you take a hit, you must make an ability check against the enemy’s successful attack roll. If you fail the contest, you become visible again and can’t turn invisible again for your next round. Ranged attacks have disadvantage if you're invisible. For additional rules relating to combat, see the Combat Encounters page's section on invisibility rules. 
+Starting at third level, you can turn yourself invisible as an action and stay hidden while moving or attacking at the expense of another action per subsequent turn. For additional rules, check out the *How to Play* chapter's *Conditions* section. 
 
 __Greater Illusion__  
 Starting at fifth level, you can cast great illusions out of nowhere as an action. These can be up to the size of a three-story-building. If you take a hit, you must contest your ability vs. the attacker’s attack roll to uphold concentration. These illusions feel real until they try to damage someone or someone else tries to damage them. In that case, it becomes apparent for everyone they’re fake. 
