@@ -3,7 +3,7 @@
 A world best described as chaos incarnate, this is a dystopian, ever-changing place where only the strong can survive. *A world where death is not the end*. 
 Ave is unpredictable - you may walk through an icy desert for an hour, only to find a rainforest directly attached to it. There's medieval structures in flying mountains, lakes filled with black water, skyscrapers buried underground. Ave is capable of manifesting the unreal. 
 
-<img src="Ave World Map.jpg"/>
+<img src="Gallery/environments/environment_5.png"/>
 
 ## TECHNOLOGY
 
@@ -11,6 +11,8 @@ The technological standards vary based on your location more than time. Ave mani
 As such, you're able to find lightsabers and crossbows, rocket launchers and catapults, sometimes only minutes apart from each other. 
 Tele- or wireless communcations don't exist, at least not over long distances, as Ave is regularly restructuring its environment, putting all efforts to build systems like these to ashes and jamms communications with huge storms. The most advanced ways of relaying information is still found in letters carried out by the world's inhabitants. As such, inhabitants from different parts of the world are very distant from one another. 
 Everything exists simultaneously and resources are more often found than crafted. There's barely reason to mine for iron when there are fully operational guns out in the world, waiting to be found. 
+
+<img src="Gallery/environments/environment_5.png"/>
 
 ## SAFE ZONES AND THE UNSET
 
@@ -23,6 +25,8 @@ Ave can be categorized into two types of areas; the *set* and the *unset*.
 - The world can be traversed in a car in around 20 days, including proper breaks for sleep and excluding possible inconveniences such as geo-storms or monster attacks. 
 - The coastline always remains roughly the same, but anything within might change after a geo-storm changes the environment. 
 
+<img src="Gallery/environments/environment_3.png"/>
+
 ## INHABITANTS
 
 This world is inherited by *Aveans*, humanoids that are split into *ten different races*, whereas their respective race grants them certain powers. They all look the same on the outside, but their powers allow them to burn down cities or create matter out of thin air, depending on their heritage and personal power. 
@@ -31,9 +35,11 @@ This world is inherited by *Aveans*, humanoids that are split into *ten differen
 - Their sturdiness, speed and strength is also based upon their inner strength and resilience. Higher ups can usually jump up on high buildings, smash each other through entire city blocks or crack open mountains with their raw physical strength, depending on how strong and experienced they are. They're sometimes god-like beings compared to the common folk. 
 - Reproduction works similarly - based on will. Conception isn't made without the intent for it, which is one of the reasons - additionally to a generalized single-child rule and the hardships that come with raising a child in a world like Ave - why population doesn't grow exponentially but stays mostly stagnant. Because if it wasn't, conditions would rapidly grow worse, which would in turn decrease reproduction rates. Depending on where you live, there might even be laws regulating how many children you're allowed to give birth to. Much opposed to our world, these laws aren't frowned upon, as everyone knows what a huge problem overpopulation is in Ave already and how terrible it can get within just a few decades if left unregulated. 
 - Regarding lifestyle, usually people will travel in small groups through the world or settle down in set areas and try to make a living there, though space is rare and pricey. 
-- Education systems vary per location, but generally there are educational institutes that might or might not be free. Most of these are heavily regulated so that learning can take place and conflicts are taken out elsewhere. Home schooling is a much more popular form of education however, as litle people stay at the same location for a long time. 
+- Education systems vary per location, but generally there are educational institutes that might or might not be free. Most of these are heavily regulated so that learning can take place and conflicts are taken out elsewhere. Home schooling is a much more popular form of education however, as little people stay at the same location for a long time. 
 - Each inhabitant speaks the same language and trades the same coin, which is measured in *gold*. Items can also be traded with each other directly. Living costs range from 10-1000 gold per day depending on where you live. 
 You can find out more about all the different inhabitants in the *Races* chapter. 
+
+<img src="Gallery/environments/environment_8.png"/>
 
 ### YOU WILL DIE
 
@@ -48,6 +54,8 @@ One thing that is certain already is that down the line you will - eventually - 
 - After the "shimmer" has enveloped their whole body, eventually it will eat away the sick host by itself, slowly causing its body to fall apart, leaving nothing but white ash. This is horrifying to watch and experience, resulting in people usually asking for a mercy killing. 
 - The shimmer is the horrible fate awaiting each and every one of the inhabitants of Ave. 
 
+<img src="Gallery/events/event_7.png"/>
+
 ### AURA AND FOCUS
 
 Any being in the world of Ave emits *aura*, which is a trace of their existence and intention that others might pick up on. The stronger a being is, the stronger the aura is that they emit. 
@@ -55,12 +63,16 @@ Any being in the world of Ave emits *aura*, which is a trace of their existence 
 - Aura is less of a scent and more of a feeling that you might pick up on. Meeting a monarch might make your entire body freeze if they decide to not hide their true strength. 
 - Any creature can focus on picking up different auras in their surroundings. Some even passively do this, automatically detecting anyone entering their reach. 
 
+<img src="Gallery/events/event_4.png"/>
+
 ## MONSTERS
 
-Ave is home to another set of creatures, entirely different from the ten humanoid races, the aveans, inhabiting it. These monsters come in all shapes and sizes, dark as night and high in numbers. There are some who prefer to hunt alone, but there's also there's hordes and swarms of them waiting for someone to enter unset areas. 
-- There's little known about them, as there are countless types and they don't take being studied all too well. They're aggressive and sinister to the ten races and have made it their purpose to hunt them down through reasons unknown, as they don't require any nourishments. 
+Ave is home to another set of creatures, entirely different from the ten humanoid races, the aveans, inhabiting it. These monsters come in all shapes and sizes, dark as night and high in numbers. There are some who prefer to hunt alone, but there's also hordes and swarms of them waiting for someone to enter unset areas. 
+- There's little known about them, as there are countless types and they don't take being studied all too well. They're aggressive and sinister to the ten races and have made it their purpose to hunt them down for reasons unknown, as they don't require any nourishments. 
 - They don't appear in safe zones and are usually kept out by the locals successfully. 
 - Their blood is used to produce the drug *anti*. It needs to be harvested right after the kill, because their bodies evaporate roughly within a minute after they die. 
+
+<img src="Gallery/monsters/monster_2.png"/>
 
 ## CLEARS
 
@@ -82,6 +94,8 @@ The ever-changing politics don't give Ave's inhabitants much room to breathe in-
 - Monarchs are regularly dethroned by their own alliance. These revolutions take time, effort, and often fail, leaving behind a trail of blood and a monarch still in power. 
 - The power gaps between certain ranks within alliances is so huge that a few higher ups are able to achieve what armies can't. Some of the higher ups can be considered gods. 
 
+<img src="Gallery/environments/environment_14.png"/>
+
 ## LIFE IN AVE 
 
 Life in Ave is generally simple to the point where you only need to be good at one of two things; talk or fight your way out of sticky situations. 
@@ -98,6 +112,8 @@ Regarding money, the only currency is gold. In the following list you have some 
 - 50.000G --> A small one room apartment in a safe zone. 
 - 500.000G --> A medium-sized company building and infrastructure. 
 
+<img src="Gallery/events/event_9.png"/>
+
 What you can buy with money isn't always the most important question however, usually, it is how to make that money reliably. There's several professions that have proven themselves worth their money and time in Ave, some of which are more respected than others. These are some of them: 
 - Scrapper --> You go out into unset areas and scavenge for whatever you find, selling it to nomads or traders within safe zones. You're the main source of food, weaponary, ammunition, clothing and other inventory for people living inside their well-built walls. Witrhout you, everything falls, but competition is rough. You need to be prepared for anyone to stab you in the back for a handful of coins - and you might need to do the same. 
 - Soldier --> You're not only part of an alliance, you're in active duty. That means you're not only coming when called for specifically, but you're always active in the field, patrolling cities, outlands or fighting for or against them. You keep people safe, or make sure they're not. You might try and go up the ranks as you become stronger to gain influence. 
@@ -109,6 +125,8 @@ What you can buy with money isn't always the most important question however, us
 - Solo --> Rarely ever stepping foot into a safe zone, you make a living out of what Ave gives you by itself. You might be there because you're refusing to take part in your alliance's doings, because you were kicked out of too many towns or ticked off too many people. But in the end you're a survivalist who has lived much of his live surrounded by danger. 
 - Outlaw --> Criminal
 - Nomad --> Group, Pack and Tribe of outsiders
+
+<img src="Gallery/events/event_6.png"/>
 
 ## MANIFEST MODULE
 
@@ -126,3 +144,5 @@ The following table depicts known information by most commoners about the curren
 | Zen | Elar | Raeven |
 | Taro | Pera | Vesstan |
 | Ahri | Fae | Crest |
+
+<img src="Gallery/maps/ave_world_map.jpg"/>

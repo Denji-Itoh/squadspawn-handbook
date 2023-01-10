@@ -10,3 +10,5 @@ The login process is done inside a pop-up, which might get blocked depending on 
 In that event, the website must be explicitly allowed to open pop-ups.
 
 Credits to [Michi](https://github.com/meik99) for creating, maintaining and hosting that service for exposure. 
+
+<img src="Gallery/characters/chara_4.png"/>

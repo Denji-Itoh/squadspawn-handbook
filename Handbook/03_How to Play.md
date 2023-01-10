@@ -4,6 +4,8 @@
 Distances are measured using the metric system. Your character takes up a field of 1m² and their movement speed is also measured in metres, for example. 
 Some abilities and values scale up e.g. 2,5d6 per level. What this means is that on the first level you gain with this ability you gain 2d6, and on the second level you gain 3d6. This is a test and might be changed, it is currently an important way to counter immense differences in power scaling down the line. 
 
+<img src="Gallery/environments/environment_2.png"/>
+
 ## Skill Checks
 Everything that is hard to do or needs some sort of skill needs a dice roll. You usually only use the twenty-sided dice if you’re outside combat. In combat, you additionally use six-sided dices for damage. More about that is written in the *Combat Encounters* chapter. 
 - If you make a skill check you roll the aforementioned d20 and add whatever amount of points you've spent on that skill during your character creation. You should spend your skill points based on what playstyle you have and the type of character you built. 
@@ -32,7 +34,7 @@ There are the following 17 skills, the first 5 are *Combat Skills*, whereas *Abi
 * First Aid – Would you know how to help a friend that just collapsed? 
 * Tinker – Can you tinker with old things to create new inventions? 
 
-
+<img src="Gallery/events/event_12.png"/>
 
 
 
@@ -65,6 +67,8 @@ These are the type of actions available to your character:
 ### NPC Combat Rules
 * Regular NPCs generally cannot perform the Help Reaction. 
 * Legendary NPCs might be able to perform the Help Reaction. 
+
+<img src="Gallery/events/event_4.png"/>
 
 
 
@@ -118,3 +122,5 @@ Doing so will reset the time you need until your rest is finished again.
 
 ### First Aid Kits
 In your adventures you might stumble upon first aid kits. With each of these kits, you can heal 2d6 hit points before you run out of equipment, as these are merely used for the most necessary treatment before you can take a proper rest. They take two combat rounds to apply and you can only carry one at a time. They are not related to a First Aid skill check to stabilize a creature. 
+
+<img src="Gallery/events/event_8.png"/>
