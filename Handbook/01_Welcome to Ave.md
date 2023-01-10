@@ -12,7 +12,7 @@ As such, you're able to find lightsabers and crossbows, rocket launchers and cat
 Tele- or wireless communcations don't exist, at least not over long distances, as Ave is regularly restructuring its environment, putting all efforts to build systems like these to ashes and jamms communications with huge storms. The most advanced ways of relaying information is still found in letters carried out by the world's inhabitants. As such, inhabitants from different parts of the world are very distant from one another. 
 Everything exists simultaneously and resources are more often found than crafted. There's barely reason to mine for iron when there are fully operational guns out in the world, waiting to be found. 
 
-<img src="Gallery/environments/environment_5.png"/>
+<img src="Gallery/environments/environment_11.png"/>
 
 ## SAFE ZONES AND THE UNSET
 

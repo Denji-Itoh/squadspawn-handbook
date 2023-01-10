@@ -7,4 +7,4 @@ It consists of the following aspects and should receive a fitting name:
 * Equipment: You will receive extra equipment that you needed before in your life. It can cost up to 500G. 
 * Experience: Pick one of the following things that you have way more experience with than the average Avean. You can also come up with fields of your own. Pre-written ones to spark ideas are: Combat Expertise, Set Areas, Unset Areas, Politics, Mechanics, Gangs, Monsters, Races, Authorities, Vehicles. 
 
-<img src="Gallery/events/event_12.png"/>
+<img src="Gallery/characters/chara_6.png"/>
