@@ -29,6 +29,8 @@ jobs:
           input_path: Handbook/handbook.md
           output_dir: pdfs
           images_dir: Handbook/Gallery
+          image_import: Gallery
+          table_of_contents: true
           build_html: true
       - name: Upload PDF
         uses: actions/upload-artifact@v3
