@@ -11,34 +11,33 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Merge Markdown files
         run: |
           #!/bin/bash
           echo "merging markdown files"
           
-          cd Handbook/          
-          mkdir out/
+          cd Handbook/
           
           for file in *.md; do
-            cat "${file}" >> out/handbook.md
-            echo "" >> out/handbook.md
+            cat "${file}" >> handbook.md
+            echo "" >> handbook.md
           done
       - name: Compile Markdown to PDF
         uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_dir: Handbook/out
+          input_path: Handbook/handbook.md
           output_dir: pdfs
           images_dir: Handbook/Gallery
           build_html: true
       - name: Upload PDF
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v3
         with:
           name: Handbook
           path: pdfs
       - name: Bump version and push tag
         id: tag_version
-        uses: mathieudutour/github-tag-action@v6.0
+        uses: mathieudutour/github-tag-action@v6.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Release Handbook
