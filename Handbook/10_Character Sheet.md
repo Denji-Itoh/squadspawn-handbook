@@ -11,4 +11,4 @@ In that event, the website must be explicitly allowed to open pop-ups.
 
 Credits to [Michi](https://github.com/meik99) for creating, maintaining and hosting that service for exposure. 
 
-<img src="Gallery/characters/chara_4.png"/>
+<img src="Gallery/characters/chara_4.png" alt="drawing" width="500"/>

@@ -1,10 +1,10 @@
 # HOW TO PLAY
 
 ## Measurement and Numbers
-Distances are measured using the metric system. Your character takes up a field of 1m² and their movement speed is also measured in metres, for example. 
-Some abilities and values scale up e.g. 2,5d6 per level. What this means is that on the first level you gain with this ability you gain 2d6, and on the second level you gain 3d6. This is a test and might be changed, it is currently an important way to counter immense differences in power scaling down the line. 
+Distances are measured using the metric system. Your character takes up a field of 1m² and their movement speed is also measured in metres.  
+When halving any number, always round up. 
 
-<img src="Gallery/environments/environment_2.png"/>
+<img src="Gallery/environments/environment_2.png" alt="drawing" width="500"/>
 
 ## Skill Checks
 Everything that is hard to do or needs some sort of skill needs a dice roll. You usually only use the twenty-sided dice if you’re outside combat. In combat, you additionally use six-sided dices for damage. More about that is written in the *Combat Encounters* chapter. 
@@ -34,7 +34,7 @@ There are the following 17 skills, the first 5 are *Combat Skills*, whereas *Abi
 * First Aid – Would you know how to help a friend that just collapsed? 
 * Tinker – Can you tinker with old things to create new inventions? 
 
-<img src="Gallery/events/event_12.png"/>
+<img src="Gallery/events/event_12.png" alt="drawing" width="500"/>
 
 
 
@@ -68,7 +68,7 @@ These are the type of actions available to your character:
 * Regular NPCs generally cannot perform the Help Reaction. 
 * Legendary NPCs might be able to perform the Help Reaction. 
 
-<img src="Gallery/events/event_4.png"/>
+<img src="Gallery/events/event_4.png" alt="drawing" width="500"/>
 
 
 
@@ -84,30 +84,36 @@ These are the type of actions available to your character:
 * Invisible creatures have advantage on attacks rolls. 
 
 ### Blinded
-
+- You currently are unable to see. 
+- This gives you disadvantage on all combat rolls. 
+- You also gain disadvantage on all other checks that require sight. 
 
 ### Stunned
-
-
-### Muted
-
-
-### Deafened
-
+- Your movement is reduced to 0. 
+- You cannot speak and are unable to move your body in any way. 
+- You cannot take any type of actions. 
+- All attacks against you have advantage, and you can't contest with Dexterity. 
 
 ### Grappled
-
+- Your movement is reduced to 0. 
+- Attacks against you are made with advantage. 
+- Attacks you make have disadvantage, unless you attack your grappler. 
 
 ### Incapacitated
-
+- Your movement is reduced to 0. 
+- Attacks against you are made with advantage, and you can't contest with Dexterity. 
+- You cannot take any type of actions. 
 
 ### Prone
-
+- You're lying on the ground and need half your movement speed to stand up. 
 
 ### Unconscious
-
+- You have been knocked out and are unable to control your character unless someone wakes you up using an action. 
+- Alternatively, you wake up if you receive damage. 
 
 ### Exhausted
+- You have disadvantage on any ability check. 
+- Exhaustion can stack and give you a cumulative -3 penalty additionally to your initial disadvantage per time you receive this condition. 
 
 
 
@@ -118,9 +124,9 @@ Once in a while you will need to take some time to tend to your wounds, recover 
 Doing so will reset the time you need until your rest is finished again. 
 * You should mention when you're about to start your rest. 
 * You can also ask if you've received a rest in hindsight of downtime your characters experienced - if the GM allows for it. 
-* Additionally to resting, your characters also need to sleep once in a while. Having a sleepless night will give you *Exhaustion*, which will give you disadvantage on any check you make. Exhaustion can stack and give you a cumulative -3 penalty additionally to your initial disadvantage. 
+* Additionally to resting, your characters also need to sleep once in a while. Having a sleepless night will give make you *Exhausted*. 
 
 ### First Aid Kits
 In your adventures you might stumble upon first aid kits. With each of these kits, you can heal 2d6 hit points before you run out of equipment, as these are merely used for the most necessary treatment before you can take a proper rest. They take two combat rounds to apply and you can only carry one at a time. They are not related to a First Aid skill check to stabilize a creature. 
 
-<img src="Gallery/events/event_8.png"/>
+<img src="Gallery/events/event_8.png" alt="drawing" width="500"/>

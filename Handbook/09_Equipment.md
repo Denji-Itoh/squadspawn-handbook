@@ -1,7 +1,7 @@
 # Equipment
 Each *weapon of your choice* can be replaced by 5 grenades, all of which can be of a different kind. 
 
-<img src="Gallery/events/event_11.png"/>
+<img src="Gallery/events/event_11.png" alt="drawing" width="500"/>
 
 ## Mechanic's Kit:
 
